@@ -245,51 +245,6 @@ Continue exploring the HeroUp Male Vitality resource library:
 | [How Hero Up Works](https://github.com/heroup-male-vitality/heroup-how-it-works)                | Understand how Hero Up may support energy metabolism, circulation pathways, stamina, libido, focus, and daily consistency.                       |
 | [Hero Up Benefits Guide](https://github.com/heroup-male-vitality/heroup-benefits-guide)         | Review possible support areas such as energy, stamina, libido, confidence, circulation, motivation, and men’s wellness.                          |
 | [Hero Up FAQ and Buying Guide](https://github.com/heroup-male-vitality/heroup-faq-buying-guide) | Read common questions about realistic expectations, responsible use, safety reminders, and buying guidance.                                      |
-
----
-
-## Repository Purpose
-
-This repository is intended to provide an educational overview of Hero Up and the men’s vitality supplement category. It can help users understand the product positioning, common ingredient categories, possible support areas, safety points, and realistic expectations.
-
-This guide is especially useful for users who want to understand:
-
-* What Hero Up is
-* Why men consider it
-* What benefits are commonly discussed
-* How the supplement is generally positioned
-* What expectations are realistic
-* What safety points should be reviewed first
-* How Hero Up fits into a responsible wellness routine
-
----
-
-## Editorial Notes
-
-This README should remain educational, balanced, and realistic. Avoid exaggerated promises, medical claims, or language that suggests guaranteed results.
-
-Good wording examples:
-
-* “may support”
-* “designed to support”
-* “commonly used for”
-* “associated with”
-* “results may vary”
-* “not a prescription medication”
-* “not intended to diagnose, treat, cure, or prevent disease”
-
-Avoid wording such as:
-
-* “cures ED”
-* “guaranteed results”
-* “works instantly”
-* “replaces Viagra”
-* “clinically proven to fix”
-* “permanent solution”
-* “no side effects for everyone”
-
----
-
 ## Disclaimer
 
 This content is for educational purposes only and is not medical advice. Hero Up is a dietary supplement, not a prescription medication. It is not intended to diagnose, treat, cure, or prevent any disease. Individual results vary. Always read the product label and consult a qualified healthcare professional before using any supplement, especially if you have a medical condition or take prescription medication.
