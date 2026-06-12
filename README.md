@@ -1,4 +1,4 @@
-# Hero Up Supplement Overview: Men’s Vitality, Energy and Stamina Support
+# HeroUp Supplement Overview: Men’s Vitality, Energy and Stamina Support
 
 ![Hero Up Supplement](https://heroupe.com/assets/images/heroup-supplement.webp)
 
@@ -10,7 +10,7 @@ This repository is part of the HeroUp Male Vitality educational resource library
 
 ## Quick Summary
 
-Hero Up is commonly described as a daily men’s wellness formula focused on vitality, stamina, energy, libido support, circulation support, and confidence. It is not a prescription medication and should not be viewed as an instant solution for erectile dysfunction, low testosterone, fatigue, or any diagnosed health condition.
+HeroUp is commonly described as a daily men’s wellness formula focused on vitality, stamina, energy, libido support, circulation support, and confidence. It is not a prescription medication and should not be viewed as an instant solution for erectile dysfunction, low testosterone, fatigue, or any diagnosed health condition.
 
 Hero Up is generally positioned around several men’s wellness areas:
 
